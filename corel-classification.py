@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 16 20:45:27 2023
-
-@author: Seif Hendawy
-"""
-
 import numpy as np 
 import pandas as pd
 import glob
